@@ -25,7 +25,7 @@ function App() {
 }, [])
 
 // const host="http://localhost:5000";
-const host="https://task-manager-l0p4.onrender.com/"
+const host="https://task-manager-l0p4.onrender.com"
   return (
     <TaskState>
     <Router>
